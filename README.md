@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=Intellij IDEA&logoColor=white">
 </p>
 <br>
-<div align = "center" ><h3>Git state📈</h3></div>
+<div align = "center" ><h3>Git stat📈</h3></div>
 
 [![Yej1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yej1n&theme=calm)](https://github.com/Yej1n/github-readme-stats)
 
