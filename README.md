@@ -6,8 +6,8 @@
 <br><br>
 <h3 align = "center" >SNS & Mail📬</h3> 
 <p align = "center" >
-<a href="[https://instagram.com/skdskdrla==](https://instagram.com/skdskdrla?igshid=NGExMmI2YTkyZg==)"><img src="https://img.shields.io/badge/skdskdrla-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
-<a href="mailto:hraniee0312@gmail.com"><img src="https://img.shields.io/badge/hraniee0312@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/skdskdrla-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+<img src="https://img.shields.io/badge/hraniee0312@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 <br>
 <h3 align = "center" >Studying📒</h3> 
